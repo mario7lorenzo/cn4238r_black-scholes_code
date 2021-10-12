@@ -1,0 +1,7 @@
+datetime
+matplotlib
+numpy
+pandas
+pandas_datareader
+requests
+seaborn
